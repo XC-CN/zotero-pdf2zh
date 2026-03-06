@@ -1,5 +1,7 @@
 # Zotero PDF2zh - Zotero PDF 翻译插件
 
+> ⚠️ **声明**：本仓库是 [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) 的**个人副本**，仅为方便本地部署而上传至 GitHub。**所有功能的原始开发和维护均归原作者 [guaguastandup](https://github.com/guaguastandup) 所有**，请前往原项目获取最新版本和技术支持。
+
 <p align="center">
   <b>在 Zotero 中一键翻译 PDF 文献，支持多种翻译引擎和输出格式</b>
 </p>
@@ -192,9 +194,9 @@ zotero-pdf2zh/
 
 ## 🔗 相关链接
 
-- **GitHub**: [https://github.com/guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)
-- **Gitee（国内镜像）**: [https://gitee.com/guaguastandup/zotero-pdf2zh](https://gitee.com/guaguastandup/zotero-pdf2zh)
-- **QQ 群**：请在 GitHub 主页查看最新群号（入群口令：github）
+- **原项目 GitHub**: [https://github.com/guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)（⭐ 请前往原项目获取最新版本和支持）
+- **原项目 Gitee（国内镜像）**: [https://gitee.com/guaguastandup/zotero-pdf2zh](https://gitee.com/guaguastandup/zotero-pdf2zh)
+- **QQ 群**：请在原项目 GitHub 主页查看最新群号（入群口令：github）
 
 ## 📝 更新日志
 
